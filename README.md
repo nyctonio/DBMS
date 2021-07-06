@@ -342,7 +342,7 @@ Introduction
 * [What is database Admin & Functions](https://practice.geeksforgeeks.org/problems/what-are-the-functions-of-a-dba)
 * [Diff b/w Tie-2/Tier-3 Architecture](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
 * [Database Languages](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
-* * DCL
-* * DDL
-* * DML
-* * TCL
+  * DCL
+  * DDL
+  * DML
+  * TCL
