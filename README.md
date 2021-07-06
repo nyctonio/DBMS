@@ -1,7 +1,14 @@
 # DBMS Roadmap
 
-[Basic tutorial](https://youtu.be/QBHpgHI7jZc)
+👉🏻 Do Watch  [Basic tutorial](https://youtu.be/QBHpgHI7jZc)
 
+## Youtube Tutorials (Optional)
+👉🏻 Watch  [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
+👉🏻 Watch  [SQL is 100 seconds](https://youtu.be/zsjvFFKOm3c)
+👉🏻 Watch  [Database Paradigm](https://youtu.be/W2Z7fbCLSTw)
+👉🏻 Watch  [SQL vs NoSQL](https://youtu.be/t0GlGbtMTio)
+
+👇🏻👇🏻👇🏻 (DO STUDY)
 ## Database
 
 <p align="center">
@@ -352,3 +359,19 @@ Introduction
   *  Sub Schema
 * How DBMS is implemented 👉🏻 find yourself
 * [Data Abstraction in DBMS](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
+* [3 Level of data abstraction](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
+* [Refrential Integrity](https://www.tutorialspoint.com/Referential-Integrity-Rule-in-RDBMS)
+
+
+## If You Want to read Further You can follow this Roadmap 
+👉🏻  [Study In Deep](https://bit.ly/384aMy7)
+
+
+
+
+
+
+
+
+
+
