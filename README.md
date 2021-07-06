@@ -326,8 +326,23 @@ Sample data well-suited for NoSQL:
 * [Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 * [SQL vs NoSQL differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 
-
-```
+👆🏻
 # This Is not my repo check out the original one 
 [donnemartin-System-design](https://github.com/donnemartin/system-design-primer)
-```
+
+
+## Questions and Some more concepts
+
+Introduction
+
+* [What is a database](https://www.javatpoint.com/what-is-database)
+* [What is DBMS](https://www.guru99.com/what-is-dbms.html)
+* [Need of DBMS](https://www.geeksforgeeks.org/need-for-dbms/)
+* [File managment system vs DBMS](https://www.javatpoint.com/dbms-vs-files-system)
+* [What is database Admin & Functions](https://practice.geeksforgeeks.org/problems/what-are-the-functions-of-a-dba)
+* [Diff b/w Tie-2/Tier-3 Architecture](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
+* [Database Languages](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+* * DCL
+* * DDL
+* * DML
+* * TCL
