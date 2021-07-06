@@ -338,7 +338,7 @@ Sample data well-suited for NoSQL:
 * [SQL vs NoSQL differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 
 
-## 👆🏻 This Is not my repo check out the original one 
+## 👆🏻 This Is not my repo check out the original one 👇🏻 here
 [donnemartin-System-design](https://github.com/donnemartin/system-design-primer)
 
 
