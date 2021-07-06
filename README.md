@@ -1,11 +1,14 @@
 # DBMS Roadmap
 
-👉🏻 Do Watch  [Basic tutorial](https://youtu.be/QBHpgHI7jZc)
+👉🏻 Do Watch  [ Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
 
 ## Youtube Tutorials (Optional)
 👉🏻 Watch  [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
+
 👉🏻 Watch  [SQL is 100 seconds](https://youtu.be/zsjvFFKOm3c)
+
 👉🏻 Watch  [Database Paradigm](https://youtu.be/W2Z7fbCLSTw)
+
 👉🏻 Watch  [SQL vs NoSQL](https://youtu.be/t0GlGbtMTio)
 
 👇🏻👇🏻👇🏻 (DO STUDY)
