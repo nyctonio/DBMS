@@ -11,7 +11,8 @@
 
 👉🏻 Watch  [SQL vs NoSQL](https://youtu.be/t0GlGbtMTio)
 
-👇🏻👇🏻👇🏻 (DO STUDY)
+
+## 👇🏻👇🏻👇🏻 (DO STUDY)
 ## Database
 
 <p align="center">
