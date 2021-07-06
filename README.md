@@ -342,7 +342,13 @@ Introduction
 * [What is database Admin & Functions](https://practice.geeksforgeeks.org/problems/what-are-the-functions-of-a-dba)
 * [Diff b/w Tie-2/Tier-3 Architecture](https://www.geeksforgeeks.org/difference-between-two-tier-and-three-tier-database-architecture/)
 * [Database Languages](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
-  * DCL
-  * DDL
-  * DML
-  * TCL
+  *  DCL
+  *  DDL
+  *  DML
+  *  TCL
+* [Important Terms](https://whatisdbms.com/instances-schema-and-sub-schema-in-dbms-with-examples/)
+  *  Instance
+  *  Schema
+  *  Sub Schema
+* How DBMS is implemented 👉🏻 find yourself
+* [Data Abstraction in DBMS](https://afteracademy.com/blog/what-is-data-abstraction-in-dbms-and-what-are-its-three-levels)
