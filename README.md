@@ -1,3 +1,7 @@
+# DBMS Roadmap
+
+[Basic tutorial](https://youtu.be/QBHpgHI7jZc)
+
 ## Database
 
 <p align="center">
@@ -323,8 +327,7 @@ Sample data well-suited for NoSQL:
 * [SQL vs NoSQL differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 
 
-
-
-
+```
 # This Is not my repo check out the original one 
 [donnemartin-System-design](https://github.com/donnemartin/system-design-primer)
+```
