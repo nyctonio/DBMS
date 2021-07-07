@@ -344,6 +344,9 @@ Sample data well-suited for NoSQL:
 
 ## Questions and Some more concepts
 
+### Top 50 DBMS Questions 👇🏻 
+[Watch Video](https://youtu.be/BHmoFa-YSzw)
+
 Introduction
 
 * [What is a database](https://www.javatpoint.com/what-is-database)
