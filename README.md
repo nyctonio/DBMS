@@ -2,9 +2,9 @@
 
 👇 Do Watch 
 
-In 1 video [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
+Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
 
-In Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 
 ## Youtube Tutorials (Optional)
 👉🏻 Watch  [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
