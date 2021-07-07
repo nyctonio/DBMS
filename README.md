@@ -3,11 +3,10 @@
 ## DBMS complete Notes 👇
 [DBMS_Notes.pdf](https://github.com/nyctonio/DBMS/files/6777854/DBMS_Notes.pdf)
 
-## DBMS Video tutorials 👇
-👇 Do Watch 
-
 ### SQL Cheat Sheet 👉 [SQL-cheat-sheet.pdf](https://github.com/nyctonio/DBMS/files/6777910/SQL-cheat-sheet.pdf)
 
+## DBMS Video tutorials 👇
+👇 Do Watch 
 Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
 
 Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
