@@ -4,6 +4,7 @@
 [DBMS_Notes.pdf](https://github.com/nyctonio/DBMS/files/6777854/DBMS_Notes.pdf)
 
 ### SQL Cheat Sheet 👉 [SQL-cheat-sheet.pdf](https://github.com/nyctonio/DBMS/files/6777910/SQL-cheat-sheet.pdf)
+[Read Online](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
 
 ## DBMS Video tutorials 👇
 👇 Do Watch 
