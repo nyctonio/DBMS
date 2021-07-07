@@ -3,7 +3,7 @@
 ## DBMS complete Notes 👇
 [DBMS_Notes.pdf](https://github.com/nyctonio/DBMS/files/6777854/DBMS_Notes.pdf)
 
-
+## DBMS Video tutorials 👇
 👇 Do Watch 
 
 Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
