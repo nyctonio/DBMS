@@ -11,6 +11,8 @@
 
 Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
 
+Oneshot [MySQL](https://youtu.be/WmGgxTpGs_8)
+
 Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
 
 ## Youtube Tutorials (Optional)
