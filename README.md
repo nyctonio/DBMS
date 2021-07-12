@@ -3,8 +3,7 @@
 ## DBMS complete Notes 👇
 [DBMS_Notes.pdf](https://drive.google.com/file/d/1L_-E4sk5I3T-opObYjxn1Fnbf7ZBXllP/view?usp=sharing)
 
-### SQL Cheat Sheet 👉 [SQL-cheat-sheet.pdf](https://github.com/nyctonio/DBMS/files/6777910/SQL-cheat-sheet.pdf)
-[Read Online](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
+### SQL Cheat Sheet 👉 [SQL-cheat-sheet.pdf](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf)
 
 ## DBMS Video tutorials 👇
 👇 Do Watch 
