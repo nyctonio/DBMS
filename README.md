@@ -33,7 +33,7 @@ Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CU
   <i><a href=https://www.youtube.com/watch?v=kKjm4ehYiMs>Source: Scaling up to your first 10 million users</a></i>
 </p>
 
-### Relational database management system (RDBMS)
+### Relational database Management system (RDBMS)
 
 A relational database like SQL is a collection of data items organized in tables.
 
