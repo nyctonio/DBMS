@@ -8,6 +8,8 @@
 ## DBMS Video tutorials 👇
 👇 Do Watch 
 
+Mike Dane [Tutorial of MySQL](https://youtu.be/HXV3zeQKqGY)
+
 Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
 
 Oneshot [MySQL](https://youtu.be/WmGgxTpGs_8)
