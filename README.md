@@ -10,11 +10,7 @@
 
 Mike Dane [Tutorial of MySQL](https://youtu.be/HXV3zeQKqGY)
 
-Oneshot [Complete DBMS Tutorial ](https://youtu.be/QBHpgHI7jZc)
-
-Oneshot [MySQL](https://youtu.be/WmGgxTpGs_8)
-
-Playlist [DBMS Tutorial ](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ)
+[Cornell University DBMS](https://youtu.be/4cWkVbC2bNE)
 
 ## Youtube Tutorials (Optional)
 👉🏻 Watch  [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://youtu.be/Cz3WcZLRaWc)
